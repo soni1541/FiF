@@ -1,0 +1,31 @@
+D:\programming_c_sharp\game\level_1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+D:\programming_c_sharp\game\level_1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+D:\programming_c_sharp\game\level_1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+D:\programming_c_sharp\game\level_1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+D:\programming_c_sharp\game\level_1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+D:\programming_c_sharp\game\level_1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+D:\programming_c_sharp\game\level_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csprojAssemblyReference.cache
+D:\programming_c_sharp\game\level_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.level_1.resources
+D:\programming_c_sharp\game\level_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+D:\programming_c_sharp\game\level_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+D:\programming_c_sharp\game\level_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+D:\programming_c_sharp\game\level_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\programming_c_sharp\game\level_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+D:\programming_c_sharp\game\level_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+D:\programming_c_sharp\game\level_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+C:\Users\kazro\Desktop\level_1 — копия\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\kazro\Desktop\level_1 — копия\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\kazro\Desktop\level_1 — копия\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\kazro\Desktop\level_1 — копия\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\kazro\Desktop\level_1 — копия\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\kazro\Desktop\level_1 — копия\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\kazro\Desktop\level_1 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kazro\Desktop\level_1 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.level_1.resources
+C:\Users\kazro\Desktop\level_1 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\kazro\Desktop\level_1 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kazro\Desktop\level_1 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\kazro\Desktop\level_1 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\kazro\Desktop\level_1 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kazro\Desktop\level_1 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\kazro\Desktop\level_1 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\kazro\Desktop\level_1 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
