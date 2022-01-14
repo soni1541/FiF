@@ -1,0 +1,15 @@
+D:\programming_c_sharp\game\level_3\level_3\bin\Debug\netcoreapp3.1\level_3.exe
+D:\programming_c_sharp\game\level_3\level_3\bin\Debug\netcoreapp3.1\level_3.deps.json
+D:\programming_c_sharp\game\level_3\level_3\bin\Debug\netcoreapp3.1\level_3.runtimeconfig.json
+D:\programming_c_sharp\game\level_3\level_3\bin\Debug\netcoreapp3.1\level_3.runtimeconfig.dev.json
+D:\programming_c_sharp\game\level_3\level_3\bin\Debug\netcoreapp3.1\level_3.dll
+D:\programming_c_sharp\game\level_3\level_3\bin\Debug\netcoreapp3.1\level_3.pdb
+D:\programming_c_sharp\game\level_3\level_3\obj\Debug\netcoreapp3.1\level_3.csprojAssemblyReference.cache
+D:\programming_c_sharp\game\level_3\level_3\obj\Debug\netcoreapp3.1\level_3.level_3.resources
+D:\programming_c_sharp\game\level_3\level_3\obj\Debug\netcoreapp3.1\level_3.csproj.GenerateResource.cache
+D:\programming_c_sharp\game\level_3\level_3\obj\Debug\netcoreapp3.1\level_3.AssemblyInfoInputs.cache
+D:\programming_c_sharp\game\level_3\level_3\obj\Debug\netcoreapp3.1\level_3.AssemblyInfo.cs
+D:\programming_c_sharp\game\level_3\level_3\obj\Debug\netcoreapp3.1\level_3.csproj.CoreCompileInputs.cache
+D:\programming_c_sharp\game\level_3\level_3\obj\Debug\netcoreapp3.1\level_3.dll
+D:\programming_c_sharp\game\level_3\level_3\obj\Debug\netcoreapp3.1\level_3.pdb
+D:\programming_c_sharp\game\level_3\level_3\obj\Debug\netcoreapp3.1\level_3.genruntimeconfig.cache
