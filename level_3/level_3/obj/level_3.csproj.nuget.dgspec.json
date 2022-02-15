@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programming_c_sharp\\game\\level_3\\level_3\\level_3.csproj": {}
+    "D:\\VisualStudio_Programming\\FiF\\level_3\\level_3\\level_3.csproj": {}
   },
   "projects": {
-    "D:\\programming_c_sharp\\game\\level_3\\level_3\\level_3.csproj": {
+    "D:\\VisualStudio_Programming\\FiF\\level_3\\level_3\\level_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programming_c_sharp\\game\\level_3\\level_3\\level_3.csproj",
+        "projectUniqueName": "D:\\VisualStudio_Programming\\FiF\\level_3\\level_3\\level_3.csproj",
         "projectName": "level_3",
-        "projectPath": "D:\\programming_c_sharp\\game\\level_3\\level_3\\level_3.csproj",
-        "packagesPath": "C:\\Users\\Soni1541\\.nuget\\packages\\",
-        "outputPath": "D:\\programming_c_sharp\\game\\level_3\\level_3\\obj\\",
+        "projectPath": "D:\\VisualStudio_Programming\\FiF\\level_3\\level_3\\level_3.csproj",
+        "packagesPath": "C:\\Users\\4862415\\.nuget\\packages\\",
+        "outputPath": "D:\\VisualStudio_Programming\\FiF\\level_3\\level_3\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Microsoft Visual Studio\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Soni1541\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\4862415\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -45,6 +39,16 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NETCore.Platforms": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,6 +59,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -63,7 +85,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
